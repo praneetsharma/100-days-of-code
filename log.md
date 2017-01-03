@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 3, 2017 (Example 1)
+### Day 1: January 3, 2017
 
 **Today's Progress**: Started looking into Scala. Went through and wrote basic scala code to test Mixan class composition, nested and high order functions, and currying.
 
