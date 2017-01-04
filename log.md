@@ -8,6 +8,11 @@
 
 **Link to work:** [Scala Code Samples](https://github.com/praneetsharma/Scala)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 4, 2017
+
+**Today's Progress**: 1. Coded Quicksort in scala using both functional and imperative programming paradigm. 2. Started working on my portfolio webpage. Put a basic navigation bar in place. 
+
+**Thoughts:** Scala syntax still continues to give me trouble. Need more hands on practice to get comfortable. Also, navbar of bootstrap was a totally new thing I had to deal with. I might do some more navbar improvement for my portfolio website. 
+
+**Link to work:** 1. [Quicksort.scala](https://github.com/praneetsharma/Scala/blob/master/Quicksort.scala)  2. [Portfolio](praneetsharma.github.io)
 
