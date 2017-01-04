@@ -14,5 +14,5 @@
 
 **Thoughts:** Scala syntax still continues to give me trouble. Need more hands on practice to get comfortable. Also, navbar of bootstrap was a totally new thing I had to deal with. I might do some more navbar improvement for my portfolio website. 
 
-**Link to work:** 1. [Quicksort.scala](https://github.com/praneetsharma/Scala/blob/master/Quicksort.scala)  2. [Portfolio](praneetsharma.github.io)
+**Link to work:** 1. [Quicksort.scala](https://github.com/praneetsharma/Scala/blob/master/Quicksort.scala)  2. [Portfolio](http://praneetsharma.github.io/)
 
