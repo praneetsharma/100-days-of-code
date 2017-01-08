@@ -16,3 +16,11 @@
 
 **Link to work:** 1. [Quicksort.scala](https://github.com/praneetsharma/Scala/blob/master/Quicksort.scala)  2. [Portfolio](http://praneetsharma.github.io/)
 
+### Day 3: January 6, 2017
+
+**Today's Progress**: Did some exercise problems from the book "Scala by example" related to tail recursion, higher order functions, and currying 
+
+**Thoughts:** Having difficulty getting regular. Also, facing problems in representing problems in functional programming. 
+
+**Link to work:** [Scala](https://github.com/praneetsharma/Scala)
+
