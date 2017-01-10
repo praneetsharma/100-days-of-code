@@ -24,3 +24,10 @@
 
 **Link to work:** [Scala](https://github.com/praneetsharma/Scala)
 
+### Day 4: January 9, 2017
+
+**Today's Progress**: Did some Javascript exercises in freecodecamp.com
+
+**Thoughts:** 1. 70% of what I did was already known to me. The last 30% is something I learnt newly. 2. I really need to be consistent now with this challenge. Currently, I am having a lot of gap days in between.
+
+**Link to work:** [FreeCodeCamp](https://freecodecamp.com)
