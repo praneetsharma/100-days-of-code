@@ -31,3 +31,11 @@
 **Thoughts:** 1. 70% of what I did was already known to me. The last 30% is something I learnt newly. 2. I really need to be consistent now with this challenge. Currently, I am having a lot of gap days in between.
 
 **Link to work:** [FreeCodeCamp](https://freecodecamp.com)
+
+### Day 5: January 10, 2017
+
+**Today's Progress**: Worked on portfolio website for freecodecamp.com.
+
+**Thoughts:** Made the navbar look better and fixed at top. Add a basic header screen which still has a lot of bugs and TODOs.
+
+**Link to work:** [Portfolio](https://github.com/praneetsharma/portfolio)
