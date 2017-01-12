@@ -38,4 +38,12 @@
 
 **Thoughts:** Made the navbar look better and fixed at top. Add a basic header screen which still has a lot of bugs and TODOs.
 
-**Link to work:** [Portfolio](https://github.com/praneetsharma/portfolio)
+**Link to work:** [Portfolio commit](https://github.com/praneetsharma/portfolio/commit/8c84c38af87243380b856b7964db7b734019f591)
+
+### Day 6: January 12, 2017
+
+**Today's Progress**: 1. Did some enhancements on portfolio website for freecodecamp.com. 2. Implemented BFS and DFS in cpp. 
+
+**Thoughts:** Need to be more consistent in developing the portfolio website. Also, need to be regular in doing this challenge.
+
+**Link to work:** 1. [Portfolio commit](https://github.com/praneetsharma/portfolio/commit/9454ee40a628d6239bb6bf5f9c03142cc44c50a0) 2. [Algo commit](https://github.com/praneetsharma/Data-Structures-and-Algos/commit/7598e4671656e35219790134591a6bff815bfec7)
