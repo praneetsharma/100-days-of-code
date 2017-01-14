@@ -47,3 +47,11 @@
 **Thoughts:** Need to be more consistent in developing the portfolio website. Also, need to be regular in doing this challenge.
 
 **Link to work:** 1. [Portfolio commit](https://github.com/praneetsharma/portfolio/commit/9454ee40a628d6239bb6bf5f9c03142cc44c50a0) 2. [Algo commit](https://github.com/praneetsharma/Data-Structures-and-Algos/commit/7598e4671656e35219790134591a6bff815bfec7)
+
+### Day 7: January 14, 2017
+
+**Today's Progress**: Did some Javascript exercises in freecodecamp.com
+
+**Thoughts:** Solved a few JS exercises which were mandatory for me to get front-end certification from freecodecamp.com
+
+**Link to work:** [FreeCodeCamp](https://freecodecamp.com)
