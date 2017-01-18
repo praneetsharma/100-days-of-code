@@ -55,3 +55,11 @@
 **Thoughts:** Solved a few JS exercises which were mandatory for me to get front-end certification from freecodecamp.com
 
 **Link to work:** [FreeCodeCamp](https://freecodecamp.com)
+
+### Day 8: January 18, 2017
+
+**Today's Progress**: Did intro jquery in freecodecamp.com. Also, started coding "Random Quote Generator"
+
+**Thoughts:** Solved basic jquery tutorial exercies in freecodecamp.com. Have just started building "Random Quote Generator". Basic stuff is in place, but a lot needs to be developed.
+
+**Link to work:** [Random Quote Generator](http://codepen.io/praneetsharma/full/WRRQwL)
