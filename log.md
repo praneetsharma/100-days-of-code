@@ -63,3 +63,11 @@
 **Thoughts:** Solved basic jquery tutorial exercies in freecodecamp.com. Have just started building "Random Quote Generator". Basic stuff is in place, but a lot needs to be developed.
 
 **Link to work:** [Random Quote Generator](http://codepen.io/praneetsharma/full/WRRQwL)
+
+### Day 9: January 20, 2017
+
+**Today's Progress**: Worked on "Random Quote Generator" website.
+
+**Thoughts:** Basic UI and functionality is in place. Need to fine-tune everything.
+
+**Link to work:** [Random Quote Generator](https://github.com/praneetsharma/Random-Quote-Generator/commit/8ea4acd680c2c2a6e97e77c2b804c5a9b728e326)
