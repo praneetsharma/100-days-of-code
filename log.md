@@ -71,3 +71,11 @@
 **Thoughts:** Basic UI and functionality is in place. Need to fine-tune everything.
 
 **Link to work:** [Random Quote Generator](https://github.com/praneetsharma/Random-Quote-Generator/commit/8ea4acd680c2c2a6e97e77c2b804c5a9b728e326)
+
+### Day 10: January 21, 2017
+
+**Today's Progress**: Worked on "Random Quote Generator" website. All the basic functionality is in place.
+
+**Thoughts:** Need to fine-tune (cosmetically) a few things on the website. Also, there are some functionality issues to be resolved.
+
+**Link to work:** [Random Quote Generator](https://github.com/praneetsharma/Random-Quote-Generator/commit/75b77bd728e40cf416b51a2ecc511b523a417c16)
