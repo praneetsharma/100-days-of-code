@@ -79,3 +79,11 @@
 **Thoughts:** Need to fine-tune (cosmetically) a few things on the website. Also, there are some functionality issues to be resolved.
 
 **Link to work:** [Random Quote Generator](https://github.com/praneetsharma/Random-Quote-Generator/commit/75b77bd728e40cf416b51a2ecc511b523a417c16)
+
+### Day 11: January 22, 2017
+
+**Today's Progress**: Completed the project "Random Quote Generator" for freecodecamp.
+
+**Thoughts:** Completed all the basic requirements for the website. There is still room for improvement which I might take up later. Need to get started on the weather app now.
+
+**Link to work:** [Random Quote Generator](http://codepen.io/praneetsharma/full/WRRQwL)
