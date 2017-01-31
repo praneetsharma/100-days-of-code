@@ -95,3 +95,11 @@
 **Thoughts:** Added basic functionality like geolocations and fetching weather info from API. The whole UI is missing.
 
 **Link to work:** [Local Weather App](https://github.com/praneetsharma/Local-Weather-App/commit/d8efb514fcedc8ae252908d79535b337b28a8333)
+
+### Day 13: January 28, 2017
+
+**Today's Progress**: Worked on "Local weather app" for freecodecamp.
+
+**Thoughts:** Basic functionality is working fine. UI needs a lot of work though. Also, saddened that I am not doing this challenge regularly.
+
+**Link to work:** [Local Weather App](https://github.com/praneetsharma/Local-Weather-App/commit/99eed6abf8b56ae0f4d70ebbdb3dbe614e10104d)
