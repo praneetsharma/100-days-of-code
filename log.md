@@ -103,3 +103,11 @@
 **Thoughts:** Basic functionality is working fine. UI needs a lot of work though. Also, saddened that I am not doing this challenge regularly.
 
 **Link to work:** [Local Weather App](https://github.com/praneetsharma/Local-Weather-App/commit/99eed6abf8b56ae0f4d70ebbdb3dbe614e10104d)
+
+### Day 14: february 1, 2017
+
+**Today's Progress**: Completed "Local weather app" for freecodecamp.
+
+**Thoughts:** Completed the required UI changes; the app looks decent at least. A lot can be improved but that is for future :-)
+
+**Link to work:** [Local Weather App](http://codepen.io/praneetsharma/full/PWRzba)
