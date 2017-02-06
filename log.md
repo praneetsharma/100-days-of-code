@@ -111,3 +111,11 @@
 **Thoughts:** Completed the required UI changes; the app looks decent at least. A lot can be improved but that is for future :-)
 
 **Link to work:** [Local Weather App](http://codepen.io/praneetsharma/full/PWRzba)
+
+### Day 15: february 4, 2017
+
+**Today's Progress**: Started working on "Wikipedia Viewer" for freecodecamp.
+
+**Thoughts:** Added some basic UI - search box and a button. All the functionality is still missing.
+
+**Link to work:** [Wikipedia Viewer](https://github.com/praneetsharma/Wikipedia-Viewer/commit/95bb4ceb018cd7af284c57f5a52d984daa6f1e0d)
