@@ -119,3 +119,11 @@
 **Thoughts:** Added some basic UI - search box and a button. All the functionality is still missing.
 
 **Link to work:** [Wikipedia Viewer](https://github.com/praneetsharma/Wikipedia-Viewer/commit/95bb4ceb018cd7af284c57f5a52d984daa6f1e0d)
+
+### Day 16: february 5, 2017
+
+**Today's Progress**: Worked on "Wikipedia Viewer" for freecodecamp.
+
+**Thoughts:** Search result box template is in place. Also the random button works fine. I REALLY NEED TO BE REGULAR IN THIS CHALLENGE - I am barely doing an hour of coding when I log.
+
+**Link to work:** [Wikipedia Viewer](https://github.com/praneetsharma/Wikipedia-Viewer/commit/bba7eaea07ae09a5e2fc34fbcbc8ec22806bd98e)
